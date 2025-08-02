@@ -10,11 +10,6 @@ This project demonstrates a **Machine Learning (ML) pipeline** for bankruptcy pr
 
 Explore how it works at 'https://bankruptcy-pipeline-1.onrender.com'
 
-## Or Wathch The Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/TBP4c9ov6Fs/maxresdefault.jpg)](https://youtu.be/TBP4c9ov6Fs)
-
-### [Watch this video on YouTube](https://youtu.be/TBP4c9ov6Fs)
 
 ## Features
 
