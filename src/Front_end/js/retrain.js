@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://bankruptcy-pipeline.onrender.com';
+const API_BASE_URL = 'https://bankruptcy-prediction-mlop-summative.onrender.com';
 const SESSION_STORAGE_KEY = 'retrainDataUploaded';
 const METRICS_STORAGE_KEY = 'retrainMetricsData';
         
