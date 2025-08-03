@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: bankruptcy-prediction
+    env: python
+    buildCommand: ./render-build.sh
+    startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
+    plan: free
+    envVars:
+      - key: API_BASE_URL
+        value: https://bankruptcy-prediction-mlop-summative.onrender.com
