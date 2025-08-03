@@ -10,7 +10,8 @@ This project demonstrates a **Machine Learning (ML) pipeline** for bankruptcy pr
 
 Explore how it works at 'https://bankruptcy-pipeline-1.onrender.com'
 
-
+Alternatively, watch video demo here
+https://youtu.be/Y6ZS0elXqq0 
 ## Features
 
 - **Model Prediction**: Predicts bankruptcy risk for single or multiple data points.
