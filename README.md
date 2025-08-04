@@ -8,7 +8,7 @@ This project demonstrates a **Machine Learning (ML) pipeline** for bankruptcy pr
 
 ## Acessing The Site
 
-Explore how it works at 'https://bankruptcy-pipeline-1.onrender.com'
+Explore how it works at 'https://bankruptcy-prediction-mlop-summative-1.onrender.com'
 
 Alternatively, watch video demo here
 https://youtu.be/Y6ZS0elXqq0 
